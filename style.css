@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.content {
+    margin: auto auto;
+    height:auto;
+    width:400px;
+    padding:10px;
+    border:1px solid #fff;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+img {
+    height:60%;
+    width: 100%;
+}
+h4{
+    margin-top: 10px;
+    font-size: 19px;
+    border-bottom: 1px solid #111;
+}
+.score-keeper {
+    font-weight: 800;
+    font-size: 50px;
+}
+p{
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.option-container {
+    margin-bottom: 10px;
+}
+label {
+    font-family: 500;
+    font-size: 19px;
+}
+button{
+    width:32%;
+    padding:10px;
+    color:#fff;
+    border:none;
+    cursor: pointer;
+}
+button:nth-of-type(1){
+    background: #33ff77;
+}
+button:nth-of-type(2){
+    background: #66d9ff;
+}
+button:nth-of-type(3){
+    background: #ff4d4d;
+}
+p{
+    display:inline;
+}
+select{
+    border-radius:10px;
+    padding:4px;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
